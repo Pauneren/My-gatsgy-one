@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Custom Starter`,
+    title: `Something else instead`,
     description: `This is my first Gatsby Website.`,
-    author: `@haydn`,
+    author: `@paulita.glam`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
